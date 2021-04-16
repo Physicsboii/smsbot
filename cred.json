@@ -1,9 +1,9 @@
 { 
 
-	//you can get the credentials in www.twillio.com/console
-	"account_sid": "Put your sid",
 	
-	"auth_token" : "Put your token"
+	"account_sid": "Put your sid you can find at www.twilio.com/console",
+	
+	"auth_token" : "Put your token you can find at www.twilio.com/console"
 
 
 
