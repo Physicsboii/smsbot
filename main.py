@@ -17,7 +17,7 @@ def send(client):
     	.create(
          	body='The actual message you want to send',
          	from_='put your twilio number',
-         	to='Put hte number of the receiver'
+         	to='Put the number of the receiver'
          	
      	)
 
