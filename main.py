@@ -15,7 +15,7 @@ client = Client(sid, token)
 def send(client):
 	message = client.messages \
     	.create(
-         	body='This is the ship that made the Kessel Run in fourteen parsecs?',
+         	body='The actual message you want to send',
          	from_='put your twilio number',
          	to='Put hte number of the receiver'
          	
