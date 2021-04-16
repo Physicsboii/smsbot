@@ -1,0 +1,11 @@
+{ 
+
+	//you can get the credentials in www.twillio.com/console
+	"account_sid": "Put your sid",
+	
+	"auth_token" : "Put your token"
+
+
+
+
+}
